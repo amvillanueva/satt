@@ -1,0 +1,17 @@
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+D:\Programacion\2023\NetCoreWebApi\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
